@@ -1,6 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/Jahid-SWE)  
-
-<h1 align="center" backgroud-color="red">Md Jahid Hassan</h1>
+ 
+<h1 align="center"> ![Profile views](https://gpvc.arturio.dev/Jahid-SWE) </h1>
+<h1 align="center">Md Jahid Hassan</h1>
 <h3 align="center">Backend Developer|| PHP Laravel</h3>
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/Jahid-SWE/muslimshop)
