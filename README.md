@@ -19,7 +19,13 @@
  
  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahid-swe&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-swe" /> </p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid-swe" alt="jahid-swe" /></a> </p>
 
