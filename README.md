@@ -25,11 +25,8 @@
  
  
  
- 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid-swe" alt="jahid-swe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/Jahid-SWE/muslimshop)
 
@@ -37,6 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-swe&show_icons=true&locale=en" alt="jahid-swe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-swe&" alt="jahid-swe" /></p>
  
 
