@@ -3,7 +3,7 @@
 <h1 align="center">Md Jahid Hassan</h1>
 <h3 align="center">Backend Developer|| PHP Laravel</h3>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/Jahid-SWE/muslimshop)
+![E-commerce](https://github.com/Jahid-SWE/muslimshop)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
