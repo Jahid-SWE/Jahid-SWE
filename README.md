@@ -14,8 +14,7 @@
 
 <h3 align="center">Languages and Skills:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/proxy/jb-0S9vlRjFz7N0WM_KpKnDxJ-v4XH4qzcvUBB1XHvwiUs10GsVTgXtzuB_5kT0E35xqGmRfkjBV9IZxiLa95PQjdq1wfe6vAAPZzHbejgcfSWgV8kk" alt="mysql" width="40" height="40"/><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid-swe&show_icons=true&locale=en&layout=compact" alt="jahid-swe" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-swe&show_icons=true&locale=en" alt="jahid-swe" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid-swe&show_icons=true&locale=en&layout=compact" alt="jahid-swe" /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-swe&show_icons=true&locale=en" alt="jahid-swe" /></p>
 
  
 
