@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/Jahid-SWE/muslimshop)
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid-swe&show_icons=true&locale=en&layout=compact" alt="jahid-swe" /></p> &ensp;<p>&nbsp;<img align="righr" src="https://github-readme-stats.vercel.app/api?username=jahid-swe&show_icons=true&locale=en" alt="jahid-swe" /></p></div>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid-swe&show_icons=true&locale=en&layout=compact" alt="jahid-swe" /></p><p><img align="righr" src="https://github-readme-stats.vercel.app/api?username=jahid-swe&show_icons=true&locale=en" alt="jahid-swe" /></p></div>
 
  
 
