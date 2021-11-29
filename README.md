@@ -1,7 +1,6 @@
  
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jahid-swe&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-swe" /> </p>
 <h1 align="center">Md Jahid Hassan</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahid-swe&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-swe" /> </p>
 <h3 align="center">Backend Developer|| PHP Laravel</h3>
 <p align="center">Phone: +880 1518398423</br> &emsp;&emsp;&emsp;Gmail: jahid.swe.new@gmail.com</p>
 <p align="center"><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
