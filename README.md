@@ -1,5 +1,6 @@
  
-<h1 align="center"> ![Profile views](https://gpvc.arturio.dev/Jahid-SWE) </h1>
+![Profile views](https://gpvc.arturio.dev/Jahid-SWE)
+<a align="center" src="https://gpvc.arturio.dev/Jahid-SWE">Profile views</a>
 <h1 align="center">Md Jahid Hassan</h1>
 <h3 align="center">Backend Developer|| PHP Laravel</h3>
 
