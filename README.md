@@ -2,8 +2,8 @@
 ![Profile views](https://gpvc.arturio.dev/Jahid-SWE)
 <h1 align="center">Md Jahid Hassan</h1>
 <h3 align="center">Backend Developer|| PHP Laravel</h3>
-
-![E-commerce](https://github.com/Jahid-SWE/muslimshop)
+<p align="center"><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+ </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
