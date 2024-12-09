@@ -3,7 +3,9 @@
 <h1 align="center">Md Jahid Hassan </h1>
 <h3 align="center">Backend Developer|| PHP Laravel</h3>
 <p align="center">Phone: +880 1518398423</br> &emsp;&emsp;&emsp;Gmail: jahidhassanen@gmail.com</p>
-<p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?resize=800%2C800&ssl=1 " alt="php" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+<p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+ <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?resize=800%2C800&ssl=1 " alt="python" width="50" height="910"/> </a><a href="https://laravel.com/"target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
  </p>
 
 <h3 align="center">Connect with me:</h3>
