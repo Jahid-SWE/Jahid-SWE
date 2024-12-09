@@ -4,8 +4,8 @@
 <h3 align="center">Backend Developer|| PHP Laravel</h3>
 <p align="center">Phone: +880 1518398423</br> &emsp;&emsp;&emsp;Gmail: jahidhassanen@gmail.com</p>
 <p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
- <img src="https://w7.pngwing.com/pngs/761/45/png-transparent-professional-python-programmer-computer-programming-android-android-blue-logo-computer-program-thumbnail.png" alt="python" width="40" height="40"/> </a><a href="https://laravel.com/"target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+ <img src="https://w7.pngwing.com/pngs/761/45/png-transparent-professional-python-programmer-computer-programming-android-android-blue-logo-computer-program-thumbnail.png" alt="python" width="40" border="radious-50" height="40"/> </a><a href="https://laravel.com/"target="_blank" rel="noreferrer">
+ 
  </p>
 
 <h3 align="center">Connect with me:</h3>
