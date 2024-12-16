@@ -1,7 +1,7 @@
  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jahid-swe&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-swe" /> </p>
 <h1 align="center">Md Jahid Hassan </h1>
-<h3 align="center">Backend Developer|| PHP Laravel</h3>
+<h3 align="center">Backend Developer|| Python Django</h3>
 <p align="center">Phone: +880 1518398423</br> &emsp;&emsp;&emsp;Gmail: dev.jahidhassan@gmail.com</p>
 <p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
  <img src="https://w7.pngwing.com/pngs/761/45/png-transparent-professional-python-programmer-computer-programming-android-android-blue-logo-computer-program-thumbnail.png" alt="python" width="40" height="40"/> </a><a href="https://laravel.com/"target="_blank" rel="noreferrer">
